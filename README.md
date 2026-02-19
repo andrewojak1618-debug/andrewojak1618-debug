@@ -1,5 +1,5 @@
 <!--Banner-->
-![andrewojak1618-debug Banner Image](./banner.png)
+
 
 <!--Night Owl image-->
 <div>
