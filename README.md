@@ -1,5 +1,4 @@
-![browser-email-svgrepo-com](https://github.com/user-attachments/assets/c073d5de-2ff2-4ab2-a802-a8415a4d12c5)<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -80,8 +79,7 @@
 <div align="center">
   
 <a href="andrewojak1618@gmail.com" target="_blank">
-
-<img src="browser-email-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618@gmail.com" style="margin-bottom: 5px;" />
+<img src="browser-email-svgrepo-com](https://github.com/user-attachments/assets/c073d5de-2ff2-4ab2-a802-a8415a4d12c5)" width=50 height=50 alt="andrewojak1618@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
