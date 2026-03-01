@@ -82,21 +82,21 @@
 <div align="center">
   
 <a href="andrewojak1618@gmail.com" target="_blank">
-<img src="img/browser-email-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618@gmail.com" style="margin-bottom: 5px;" />
+<img src="browser-email-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
-<img src="img/github-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618-debug" style="margin-bottom: 5px;" />
+<img src="github-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618-debug" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/andre-wojak-08a284373/" target="_blank">
-<img src="img/linkedin-linked-in-svgrepo-com.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+<img src="linkedin-linked-in-svgrepo-com.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
 <!--Buy me a coffee-->
 <div align="center">
     <a href="https://tenor.com/de/view/enlish-male-actors-tea-hot-drink-rugged-men-mens-bikini-briefs-gif-17177467" target="_blank">
-<img src="img/starbucks-svgrepo-com.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+<img src="starbucks-svgrepo-com.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
 ###
