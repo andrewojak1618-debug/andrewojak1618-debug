@@ -91,6 +91,9 @@
 <!--Buy me a coffee-->
 <div align="center">
     <a href="https://tenor.com/de/view/enlish-male-actors-tea-hot-drink-rugged-men-mens-bikini-briefs-gif-17177467" target="_blank">
+<img width="384" height="384" alt="starbucks-svgrepo-com" src="https://github.com/user-attachments/assets/0ba4d435-68de-4118-9c70-782217f7707f" />
+
+        
 <img src="starbucks-svgrepo-com.svg" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
 </div>
 
