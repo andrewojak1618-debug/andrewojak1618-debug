@@ -80,8 +80,7 @@
 <img width="54" height="54" alt="github-svgrepo-com" src="https://github.com/user-attachments/assets/9d3e63e8-6974-4d5f-8609-aad92769ff9e" /></a>
 
 <a href="https://www.linkedin.com/in/andre-wojak-08a284373/" target="_blank">
-<img src="linkedin-linked-in-svgrepo-com.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
-</a>
+<img width="54" height="54" alt="linkedin-linked-in-svgrepo-com" src="https://github.com/user-attachments/assets/84336c4a-40c9-420e-85ec-1079e3e1f3a9" /></a>
 
 <!--Buy me a coffee-->
 <div align="center">
