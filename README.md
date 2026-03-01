@@ -74,11 +74,7 @@
 <div align="center">
   
 <a href="andrewojak1618@gmail.com" target="_blank">
-![browser-email-svgrepo-com](https://github.com/user-attachments/assets/5e27908e-49f7-4581-8ed5-b7abdbeec2c0)
-</svg>[Uploading browser-email-svgrepo-com.svg…]()
-
-<img src="![browser-email-svgrepo-com](https://github.com/user-attachments/assets/5e27908e-49f7-4581-8ed5-b7abdbeec2c0)" width=50 height=50 alt="andrewojak1618@gmail.com" style="margin-bottom: 5px;" />
-</a>
+<img width="54" height="54" alt="browser-email-svgrepo-com" src="https://github.com/user-attachments/assets/661d51af-4573-49f8-b7da-e304fc00b1e2" /></a>
 
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
 <img src="github-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618-debug" style="margin-bottom: 5px;" />
