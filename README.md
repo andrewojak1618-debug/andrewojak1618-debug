@@ -77,8 +77,7 @@
 <img width="54" height="54" alt="browser-email-svgrepo-com" src="https://github.com/user-attachments/assets/661d51af-4573-49f8-b7da-e304fc00b1e2" /></a>
 
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
-<img src="github-svgrepo-com.svg" width=50 height=50 alt="andrewojak1618-debug" style="margin-bottom: 5px;" />
-</a>
+<img width="54" height="54" alt="github-svgrepo-com" src="https://github.com/user-attachments/assets/9d3e63e8-6974-4d5f-8609-aad92769ff9e" /></a>
 
 <a href="https://www.linkedin.com/in/andre-wojak-08a284373/" target="_blank">
 <img src="linkedin-linked-in-svgrepo-com.svg" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
