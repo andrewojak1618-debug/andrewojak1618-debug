@@ -70,6 +70,7 @@
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 
+<img width="1074" height="528" alt="codingsleeproom" src="https://github.com/user-attachments/assets/9d74758b-9bca-4d0a-983a-4b341eab4de1" />
 
 
 <img src="img/settingbackground.png"width=450 height=250 alt=" " style=" padding-left: 400px;">
