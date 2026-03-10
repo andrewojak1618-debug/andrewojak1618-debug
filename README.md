@@ -14,7 +14,7 @@
 
 - 💯Uncompromisingly determined :)
 - 🌱 I'm learning a lot right now, I believe that every day is a learning opportunity.
-- 💁 ♂️ Trusted member and student of https://developer-akademie.teachable.com-/ 🤓
+- 💁 ♂️ Trusted member and student of https://developer-akademie.com-/ 🤓
 <!--End Intro-->
 <br>
 <br>
