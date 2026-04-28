@@ -71,7 +71,7 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
+
 <a href="andrewojak1618@gmail.com" target="_blank">
 <img width="54" height="54" alt="browser-email-svgrepo-com" src="https://github.com/user-attachments/assets/661d51af-4573-49f8-b7da-e304fc00b1e2" /></a>
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
@@ -81,7 +81,6 @@
 <!--Buy me a coffee-->
 <a href="https://tenor.com/de/view/enlish-male-actors-tea-hot-drink-rugged-men-mens-bikini-briefs-gif-17177467" target="_blank">
 <img width="50" height="60" alt="starbucks-svgrepo-com" src="https://github.com/user-attachments/assets/0ba4d435-68de-4118-9c70-782217f7707f" /></a>
-</div>
 
 ###
 
