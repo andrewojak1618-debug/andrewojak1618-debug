@@ -83,9 +83,8 @@
 <img width="54" height="54" alt="linkedin-linked-in-svgrepo-com" src="https://github.com/user-attachments/assets/84336c4a-40c9-420e-85ec-1079e3e1f3a9" /></a>
   <br />
 <!--Buy me a coffee-->
-<
     <a href="https://tenor.com/de/view/enlish-male-actors-tea-hot-drink-rugged-men-mens-bikini-briefs-gif-17177467" target="_blank">
-<img width="50" height="80" alt="starbucks-svgrepo-com" src="https://github.com/user-attachments/assets/0ba4d435-68de-4118-9c70-782217f7707f" /></a>
+<img width="50" height="60" alt="starbucks-svgrepo-com" src="https://github.com/user-attachments/assets/0ba4d435-68de-4118-9c70-782217f7707f" /></a>
 </div>
 
 ###
