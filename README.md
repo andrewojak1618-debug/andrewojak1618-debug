@@ -72,13 +72,13 @@
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
+  <br />
 <a href="andrewojak1618@gmail.com" target="_blank">
 <img width="54" height="54" alt="browser-email-svgrepo-com" src="https://github.com/user-attachments/assets/661d51af-4573-49f8-b7da-e304fc00b1e2" /></a>
-
+  <br />
 <a href="https://github.com/andrewojak1618-debug" target="_blank">
 <img width="54" height="54" alt="github-svgrepo-com" src="https://github.com/user-attachments/assets/9d3e63e8-6974-4d5f-8609-aad92769ff9e" /></a>
-
+  <br />
 <a href="https://www.linkedin.com/in/andre-wojak-08a284373/" target="_blank">
 <img width="54" height="54" alt="linkedin-linked-in-svgrepo-com" src="https://github.com/user-attachments/assets/84336c4a-40c9-420e-85ec-1079e3e1f3a9" /></a>
 
