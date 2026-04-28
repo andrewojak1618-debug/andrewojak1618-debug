@@ -71,7 +71,7 @@
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div justify-contant="space-between">
+<div align="center">
 <a href="andrewojak1618@gmail.com" target="_blank">
 <img width="54" height="54" alt="browser-email-svgrepo-com" src="https://github.com/user-attachments/assets/661d51af-4573-49f8-b7da-e304fc00b1e2" /></a>
 <br />
