@@ -1,9 +1,5 @@
 
 <!-- Header -->
-<p align="center">
-  <img src="assets/branding/double-helix-3d.gif" width="38%" alt="Vertically rotating 3D double helix" />
-</p>
-
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses emoji" />
   ɪ'ᴍ ANDRE!
