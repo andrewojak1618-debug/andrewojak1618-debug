@@ -23,23 +23,42 @@
 <!-- Languages and Tools -->
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code" />
-</div>
-
-<p align="center">HTML · CSS · JavaScript · REST APIs · Git · GitHub · Firebase · VS Code</p>
+<table width="100%">
+  <tr>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" /><br />
+      <sub><strong>HTML5</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" /><br />
+      <sub><strong>CSS3</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" /><br />
+      <sub><strong>JavaScript</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" height="42" alt="REST APIs" /><br />
+      <sub><strong>REST APIs</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" /><br />
+      <sub><strong>Git</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub" /><br />
+      <sub><strong>GitHub</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="42" alt="Firebase" /><br />
+      <sub><strong>Firebase</strong></sub>
+    </td>
+    <td width="12.5%" align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="Visual Studio Code" /><br />
+      <sub><strong>VS Code</strong></sub>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2>
 
