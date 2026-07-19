@@ -51,7 +51,7 @@
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
-<h3 align="center">🚧 COMING SOON — Featured Projects 🚧</h3>
+<h3 align="center">Featured Projects</h3>
 
 <table>
   <tr>
