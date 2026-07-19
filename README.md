@@ -23,7 +23,7 @@
 <!-- Languages and Tools -->
 <h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="12.5%" align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" /><br />
