@@ -1,12 +1,17 @@
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Developer illustration" />
-</div>
-
 <!-- Header -->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ANDRE! 
+<p align="center">
+  <img src="assets/branding/double-helix-3d.gif" width="38%" alt="Vertically rotating 3D double helix" />
+</p>
 
-**Aspiring Full-Stack Developer · JavaScript · Firebase · DevOps & Cybersecurity Enthusiast**
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses emoji" />
+  ɪ'ᴍ ANDRE!
+</h1>
+
+<p align="center">
+  <strong>Aspiring Full-Stack Developer · JavaScript · Firebase · DevOps & Cybersecurity Enthusiast</strong>
+</p>
 
 <!-- Introduction -->
 <p align="left">
@@ -60,14 +65,6 @@
   </tr>
 </table>
 
-<h2 align="center">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2>
-
-<ul align="left">
-  <li>Deepening my JavaScript and full-stack development skills.</li>
-  <li>Exploring machine learning, AI, cybersecurity and DevOps fundamentals.</li>
-  <li>Improving code quality, testing, accessibility and responsive design through practical projects.</li>
-</ul>
-
 ---
 
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
@@ -97,12 +94,13 @@
 
 ---
 
-<!-- Coding mindset -->
-<h2 align="center">💡 Cᴏᴅɪɴɢ Mɪɴᴅsᴇᴛ 💡</h2>
+<h2 align="center">Cᴜʀʀᴇɴᴛ Lᴇᴀʀɴɪɴɢ</h2>
 
-<p align="center">
-  <img width="100%" alt="Code, learn, improve and repeat" src="https://github.com/user-attachments/assets/9d74758b-9bca-4d0a-983a-4b341eab4de1" />
-</p>
+<ul align="left">
+  <li>Deepening my JavaScript and full-stack development skills.</li>
+  <li>Exploring machine learning, AI, cybersecurity and DevOps fundamentals.</li>
+  <li>Improving code quality, testing, accessibility and responsive design through practical projects.</li>
+</ul>
 
 ---
 
