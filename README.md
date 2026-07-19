@@ -51,7 +51,30 @@
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
-<h3>COMING SOON::::.....</h3>
+<h3 align="center">🚧 COMING SOON — Featured Projects 🚧</h3>
+
+<table>
+  <tr>
+    <th width="33%">BestellApp</th>
+    <th width="33%">DarkDex Pokédex</th>
+    <th width="33%">Join 360</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://andrewojak1618-debug.github.io/BestellApp-Dev-Test/"><strong>Open Live Demo</strong></a></td>
+    <td align="center"><a href="https://andrewojak1618-debug.github.io/Pok-dex_newera/"><strong>Open Live Demo</strong></a></td>
+    <td align="center"><a href="https://join-teamjob.web.app/"><strong>Open Live Demo</strong></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://andrewojak1618-debug.github.io/BestellApp-Dev-Test/"><img src="assets/previews/bestellapp-live-preview.gif" width="100%" alt="BestellApp live homepage preview" /></a></td>
+    <td align="center"><a href="https://andrewojak1618-debug.github.io/Pok-dex_newera/"><img src="assets/previews/pokedex-live-preview.gif" width="100%" alt="DarkDex Pokédex live homepage preview" /></a></td>
+    <td align="center"><a href="https://join-teamjob.web.app/"><img src="assets/previews/join-live-preview.gif" width="100%" alt="Join 360 live homepage preview" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/andrewojak1618-debug/BestellApp-Dev-Test">View Repository</a></td>
+    <td align="center"><a href="https://github.com/andrewojak1618-debug/Pok-dex_newera">View Repository</a></td>
+    <td align="center"><a href="https://github.com/andrewojak1618-debug/Join">View Repository</a></td>
+  </tr>
+</table>
 
 <br />
 <br />
