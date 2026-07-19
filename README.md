@@ -3,6 +3,7 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Sunglasses emoji" />
   ɪ'ᴍ ANDRE!
+  <img src="assets/branding/double-helix-inline.gif" height="32" alt="Rotating double helix" />
 </h1>
 
 <p align="center">
